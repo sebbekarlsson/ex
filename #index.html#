@@ -1,0 +1,17 @@
+<html>
+  <head></head>
+  <body>
+    <h1>My website<h1>
+    <p>This is my website</p>
+    <img width="25Ö6px" src="joshua-koblin-VVcsVlsOHbs-unsplash.jpg" />
+    <hr/>
+
+    <h2>About me</h2>
+    <p>I love swimming and photography</p>
+
+    <h2>Contact</h2>
+    <p>My email is <b>jonna.doe@doedoe.com</b></p>
+
+    <a href="https://google.com">Take me to Google</a>
+  </body>
+</html>
